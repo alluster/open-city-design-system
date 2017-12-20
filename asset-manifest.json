@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.b5430902.css",
-  "main.css.map": "static/css/main.b5430902.css.map",
-  "main.js": "static/js/main.2435b6a8.js",
-  "main.js.map": "static/js/main.2435b6a8.js.map",
+  "main.css": "static/css/main.aa89529b.css",
+  "main.css.map": "static/css/main.aa89529b.css.map",
+  "main.js": "static/js/main.c6f525db.js",
+  "main.js.map": "static/js/main.c6f525db.js.map",
   "static/media/1-open-files.png": "static/media/1-open-files.fba38c39.png",
   "static/media/2-sketch-library.png": "static/media/2-sketch-library.dcf26fbd.png",
   "static/media/3-open-resources.png": "static/media/3-open-resources.2c124503.png",
@@ -20,9 +20,11 @@
   "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
   "static/media/git.png": "static/media/git.79696515.png",
   "static/media/helsinki.png": "static/media/helsinki.ba373a4a.png",
+  "static/media/howTo.png": "static/media/howTo.f359df5c.png",
   "static/media/logo.png": "static/media/logo.a68a20ce.png",
   "static/media/sketch.png": "static/media/sketch.9bd9c288.png",
   "static/media/sketch_narrow.png": "static/media/sketch_narrow.46526486.png",
   "static/media/slack.png": "static/media/slack.77ae23c1.png",
+  "static/media/type.png": "static/media/type.2dc7ae0d.png",
   "static/media/typography.png": "static/media/typography.f4b2a05f.png"
 }
